@@ -6,4 +6,4 @@ Lots of unfinished new sections at the moment.
 
 If you find errors/typos etc., please let me know.
 
-I plan to add notes on decision theory shortly.
+I am also part-way through writing notes on decision theory. I will put these up when they are less incomplete.
